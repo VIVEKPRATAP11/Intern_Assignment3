@@ -1,0 +1,7 @@
+li a.active{
+    display: block;
+    border-bottom: 4px solid green;
+    /* color: rgb(223, 180, 100);
+    transform: scale(1.2);
+    transition: 0.2s ease-out; */
+}
